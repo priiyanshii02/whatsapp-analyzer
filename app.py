@@ -3,6 +3,8 @@ import preprocessor, helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+from urlextract import URLExtract
+
 
 # Sidebar Title
 st.sidebar.title("WhatsApp Chat Analyzer")
